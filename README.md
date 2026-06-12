@@ -1,5 +1,40 @@
-# 💫 About Me:
-👋 About Me<br>🎓 I'm a "BS in Computer Science" graduate.<br>🔭 I’m currently working on and learning:<br>  - How **AI automation** works<br>  - **DevOps** practices and tools<br>  - Building **real‑world problem‑solving projects** (and more)<br>👯 I’m looking to collaborate on low‑pressure, friendly projects where people aren't afraid to ask “dumb” questions.<br>🤝 I’m looking for help with:<br>  - Understanding how **AI automation** really works under the hood<br>  - How **real‑world codebases** are structured<br>  - Practical ways to **make more money** using tech skills<br>- ⚡ Fun fact: My hobbies include listening to music, going for a run, drawing, and playing volleyball, basketball, and sepak takraw.<br><br>🌱 This profile is a work in progress — just like me. Thanks for stopping by!
+# Lloyd C. Rosales
+
+**Full-Stack Developer · AI Engineer · Computer Science Graduate**
+
+---
+
+## About
+
+I am a Computer Science graduate with a strong foundation in full-stack development and a growing specialization in artificial intelligence and software engineering. My work spans web, mobile, and AI-integrated systems — with a focus on building solutions that are both technically sound and genuinely useful in the real world.
+
+I am currently deepening my expertise in AI automation, multi-agent orchestration, and DevOps practices, while continuously shipping projects that challenge me to grow as an engineer.
+
+---
+
+## Current Focus
+
+- Exploring the internals of **AI automation** and **LLM-powered systems**
+- Adopting **DevOps** principles into my development workflow
+- Building and shipping **real-world projects** that solve meaningful problems
+
+---
+
+## Open To
+
+- Collaborations on purposeful, well-scoped projects with driven individuals
+- Discussions around **AI engineering**, **full-stack architecture**, and **developer tooling**
+- Connecting with engineers who value craftsmanship and continuous improvement
+
+---
+
+## Beyond the Code
+
+When I am not building, I am usually listening to music, running, drawing, or on the court playing volleyball, basketball, or sepak takraw. I believe that creativity and physical discipline carry over directly into how I approach engineering problems.
+
+---
+
+*This profile evolves as I do. Feel free to explore my work and reach out.*
 
 
 ## 🌐 Socials:
