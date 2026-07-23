@@ -38,7 +38,7 @@ When I am not building, I am usually listening to music, running, drawing, or on
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lloyd-rosales-a72b9730b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:code.with.lloyd@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lloyd-rosales-937348422/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:code.with.lloyd@gmail.com) 
 
 
 # 📊 GitHub Stats:
