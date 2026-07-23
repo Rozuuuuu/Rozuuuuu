@@ -1,6 +1,6 @@
 # Lloyd C. Rosales
 
-**Full-Stack Developer · AI Engineer · Computer Science Graduate**
+**Full-Stack Developer · Software Developer · Computer Science Graduate**
 
 ---
 
