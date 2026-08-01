@@ -42,7 +42,6 @@ When I am not building, I am usually listening to music, running, drawing, or on
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rozuuuuu&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Rozuuuuu&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rozuuuuu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
